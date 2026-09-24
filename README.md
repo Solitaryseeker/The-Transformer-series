@@ -54,7 +54,7 @@ Research perspectives
 
 Num| Topic | Main Concept | Linkedin Seris |
 |---|---|---|---|
-|1| [Introduction](./Day-01-Introduction/) | What is a Transformer? | [Read →] |
+|1| [Introduction](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-01-What-Do-We-Mean%20by%20-Transformer) |What Do We Mean by “Transformer”? | [Read](https://lnkd.in/p/dk_U5xav) |
 
 ## Author 
 
