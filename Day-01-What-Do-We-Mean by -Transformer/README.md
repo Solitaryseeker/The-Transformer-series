@@ -61,4 +61,11 @@ $$
 
 Here, **Q** represents the Query, **K** represents the Key, and **V** represents the Value. The term \(d_k\) represents the dimensionality of the Key vectors. This equation will be explored in greater detail later in the series because understanding the operation of Query, Key, Value, scaling, and Softmax is essential for understanding Self-Attention.
 
+
+---
+
+
+
+Here, **Q** represents the Query, **K** represents the Key, and **V** represents the Value. The term \(d_k\) represents the dimensionality of the Key vectors. This equation will be explored in greater detail later in the series because understanding the operation of Query, Key, Value, scaling, and Softmax is essential for understanding Self-Attention.
+
 ---
