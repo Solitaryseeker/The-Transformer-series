@@ -7,7 +7,9 @@ When you hear the word **“Transformer”**, what do you think of?
 ![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/transformer3.jpeg)
 
 🤖 A transforming robot?
+
 ⚡ An electrical transformer?
+
 🧠 Or a Deep Learning architecture?
 
 The interesting part is that all three are called “Transformers” — but they represent completely different concepts.
@@ -66,6 +68,3 @@ Here, **Q** represents the Query, **K** represents the Key, and **V** represents
 
 
 
-Here, **Q** represents the Query, **K** represents the Key, and **V** represents the Value. The term \(d_k\) represents the dimensionality of the Key vectors. This equation will be explored in greater detail later in the series because understanding the operation of Query, Key, Value, scaling, and Softmax is essential for understanding Self-Attention.
-
----
