@@ -55,7 +55,13 @@ Research perspectives
 Num| Topic | Main Concept | Linkedin Seris |
 |---|---|---|---|
 |1| [Introduction](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-01-What-Do-We-Mean%20by%20-Transformer) |What Do We Mean by “Transformer”? | [Read](https://lnkd.in/p/dk_U5xav) |
+|2|[Why?](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-02-Why-did-we-need-Transformers%20)|Why did we need Transformers in the first place?|[Read](https://lnkd.in/p/dQKkCm3H)|
 
+---
+# Reference
+Vaswani et al. — [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+---
 ## Author 
 
 📧 Email: quantumsolitaryseeker@gmail.com  
