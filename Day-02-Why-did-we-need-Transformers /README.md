@@ -32,12 +32,12 @@ RNNs process a sequence one element at a time. At each step, the model receives 
 
 Conceptually, the information flow can be represented as:
 
-
+```text
 Token 1 → Token 2 → Token 3 → Token 4 → Token 5
    ↓         ↓         ↓         ↓         ↓
  Hidden    Hidden    Hidden    Hidden    Hidden
  State     State     State     State     State
-
+```
 ---
 ## The Limitations of Recurrent Processing
 
@@ -57,16 +57,16 @@ Attention introduced a different way of thinking about sequence relationships.
 Instead of requiring information to be passed only through a chain of recurrent states, an attention mechanism can allow a representation at one position to consider information from other positions in the sequence.
 
 Conceptually, recurrent processing can be represented as:
-
+```text
 Token 1 → Token 2 → Token 3 → Token 4 → Token 5
-
+```
 while attention provides the possibility of direct interactions such as:
-
+```text
 Token 1 ───────────────► Token 5
 Token 2 ───────► Token 4
 Token 3 ─────────► Token 5
 Token 5 ─────► Token 1
-
+```
 The important idea is that the model can learn which elements of the sequence are relevant to one another.
 
 This provides a different mechanism for representing relationships compared with passing information through a recurrent chain.
