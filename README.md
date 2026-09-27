@@ -46,8 +46,8 @@ Practical examples
 Research perspectives
 
 ---
-# 📚 Transformer Architecture
-![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/transf.png)
+# 📚 Transformer 
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/transformer3.jpeg)
 
 ---
 # The Transformer-series 
