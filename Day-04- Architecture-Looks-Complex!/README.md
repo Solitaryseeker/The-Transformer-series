@@ -73,7 +73,7 @@ The important idea is:
 
 We can simplify the complete architecture into:
 
-![image ](tf)
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/enc_doc.png)
 
 The original Transformer repeats Encoder and Decoder layers multiple times.
 
@@ -131,7 +131,7 @@ The most important mechanism to understand is Attention, because it forms the fo
 ---
 
 You can think about the Transformer like this:
-![](hk)
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/sh_tf.jpg)
 
 The actual Transformer architecture contains many more operations, but this simple mental model gives us a starting point.
 
