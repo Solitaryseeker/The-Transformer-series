@@ -96,7 +96,7 @@ Vector Representation
 ```
 The embedding layer can therefore be thought of as a learned lookup table that maps token IDs to vectors.
 
-Why Do We Need Embeddings?
+# Why Do We Need Embeddings?
 
 A token ID such as:
 ```text
