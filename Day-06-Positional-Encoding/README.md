@@ -134,4 +134,20 @@ Token Position
       ↓
 Input Representation
 ```
-![]()
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Positional-Encoding.png)
+
+Now the Transformer has information about:
+
+**What the tokens are**
+and
+**Where the tokens are.**
+
+But there is still a major question:
+
+**How does the Transformer understand the relationships between different tokens?**
+
+For example, how does it determine which words are important to one another?
+
+This leads to the next major concept:
+
+**Attention**
