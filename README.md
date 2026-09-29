@@ -58,6 +58,8 @@ Num| Topic | Main Concept | Linkedin Seris |
 |2|[Why?](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-02-Why-did-we-need-Transformers%20)|Why did we need Transformers in the first place?|[Read](https://lnkd.in/p/dQKkCm3H)|
 |3|[How Transformer](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-03-How-Did-We-Get)|How did Transformers evolve?  |[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_the-transformer-series-day-03-from-language-activity-7509545086892806144-DMnO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
 |4|[architecture](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-04-%20Architecture-Looks-Complex!)|What does the overall architecture look like?|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_the-transformer-series-day-04-the-transformer-activity-7510008370649575424-3nKY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)
+|5|[How_Read](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-05-How)|How Does a Transformer Read Human Language?|[Read](https://lnkd.in/p/dkdazYZN)|
+|6|[Position](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-06-Positional-Encoding)| How Does a Transformer Know Where a Token Is? |[Read](https://lnkd.in/p/dkbNRWFM)|
 
 ---
 # Reference
