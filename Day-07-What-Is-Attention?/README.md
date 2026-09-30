@@ -65,7 +65,7 @@ chased ↔ mouse
 The strength of these relationships is represented through attention weights.
 
 # A Simple Attention Visualization 
-![]()
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/attention_image.png)
 
 ## What Does the Attention Matrix Represent?
 
@@ -99,3 +99,15 @@ Value (V)
 ```
 These three components form the foundation for understanding the mathematics behind Transformer Attention.
 
+----
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Attention.png)
+
+## Key Takeaway
+
+Attention allows a Transformer to determine which other tokens are important when processing a particular token.
+
+In simple terms:
+
+**Attention = looking at the context and deciding what information matters.**
+
+This idea is the foundation for understanding how Transformers capture relationships between tokens.
