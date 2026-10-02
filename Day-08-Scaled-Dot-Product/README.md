@@ -213,3 +213,4 @@ $$ \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$
 
 The resulting weights determine how information from the Values is combined.
 
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Scaled%20Dot-Product%20Attention%20Infographic.png)
