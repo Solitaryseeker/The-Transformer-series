@@ -222,6 +222,7 @@ Self-Attention gives the model a mechanism for connecting information across the
 It is useful to distinguish the general concept from the specific Transformer mechanism.
 
 |Concept	|Main idea|
+|---|---|
 |Attention|	A mechanism for weighting relevant information|
 |Self-Attention	|Attention where Q, K and V come from the same sequence|
 |Cross-Attention	|Attention where the information comes from another sequence|
