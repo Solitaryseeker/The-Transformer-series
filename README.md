@@ -60,6 +60,11 @@ Num| Topic | Main Concept | Linkedin Seris |
 |4|[architecture](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-04-%20Architecture-Looks-Complex!)|What does the overall architecture look like?|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_the-transformer-series-day-04-the-transformer-activity-7510008370649575424-3nKY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)
 |5|[How_Read](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-05-How)|How Does a Transformer Read Human Language?|[Read](https://lnkd.in/p/dkdazYZN)|
 |6|[Position](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-06-Positional-Encoding)| How Does a Transformer Know Where a Token Is? |[Read](https://lnkd.in/p/dkbNRWFM)|
+|7|[ What Is Attention?](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-07-What-Is-Attention%3F)|How does a Transformer know which tokens are related to each other?|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7511031313332867072-EB75?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
+|8|[(Q, K, V)()]|This is where Query (Q), Key (K), and Value (V) come in.|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7511390461853401088-Kwk2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
+|9|[Dot-Product](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-9-Scaled-Dot-Product%20)|How does the Transformer calculate how strongly a Query matches each Key?|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7511715037695303680-c4ij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
+|10|[Self-Attention](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-10-Self-Attention)|Self-Attention: How Every Token Understands the Others|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7512059372156588032-eQlI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
+
 
 ---
 # Reference
