@@ -240,7 +240,7 @@ $$ \boxed{ MultiHead(Q,K,V) = Concat(head_1,\ldots,head_h)W^O } $$
 ---
 ![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/mha.png)
 
-[code](1EcQPpafuHrXJCzDOMq8RNvp7emfBG2CH)
+[code](https://colab.research.google.com/drive/#scrollTo=mIQGHjPIz7mK)
 
 The next question is:
 
