@@ -71,7 +71,7 @@ The masked positions receive effectively \(-\infty\) before Softmax, so their at
 
 ![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Masked%20Self-Attention%20Infographic.png)
 
-[code]()
+[code](https://colab.research.google.com/drive/114GA9pyFN3gAyTm3Tcjbkm7w8ZVOEdrF?usp=sharing)
 
 # Self-Attention vs Masked Self-Attention
 |Self-Attention|	Masked Self-Attention|
