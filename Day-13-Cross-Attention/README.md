@@ -164,7 +164,7 @@ Feed-Forward Network
 This distinction is important when understanding the complete Transformer decoder.
 
 ----
-![](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-01-What-Do-We-Mean%20by%20-Transformer)
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Cross-Attention%20Transformer%20Infographic.png)
 
 The next question is:
 
