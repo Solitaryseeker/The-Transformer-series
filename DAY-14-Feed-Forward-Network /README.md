@@ -159,3 +159,35 @@ Attention = communication
 FFN = transformation
 
 ---
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/Feed-Forward%20Network%20Infographic.png)
+
+## Visualizing the Dimensions
+```
+Input
+[5 × 512]
+    │
+    ▼
+Linear
+[5 × 2048]
+    │
+    ▼
+ReLU
+[5 × 2048]
+    │
+    ▼
+Linear
+[5 × 512]
+    │
+    ▼
+Output
+[5 × 512]
+```
+The sequence length remains 5 throughout the FFN.
+
+##  Important Note
+
+The implementation above follows the original Transformer design, which uses ReLU.
+
+Modern Transformer architectures may use other activation functions or FFN variants, such as GELU or SwiGLU.
+
+For this series, we are starting with the original Transformer formulation so that the fundamental architecture is clear.
