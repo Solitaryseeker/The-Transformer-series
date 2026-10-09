@@ -64,6 +64,11 @@ Num| Topic | Main Concept | Linkedin Seris |
 |8|[(Q, K, V)](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-08-Query-Key-Value)|This is where Query (Q), Key (K), and Value (V) come in.|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7511390461853401088-Kwk2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
 |9|[Dot-Product](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-9-Scaled-Dot-Product%20)|How does the Transformer calculate how strongly a Query matches each Key?|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7511715037695303680-c4ij?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
 |10|[Self-Attention](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-10-Self-Attention)|Self-Attention: How Every Token Understands the Others|[Read](https://www.linkedin.com/posts/rohit-sahu-7142742a7_transformersfromscratch-transformerarchitecture-activity-7512059372156588032-eQlI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnmXgABNDNWL_NHvWinpkvaIYbycxAF43A)|
+|11|[Multi-Head Attention](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-11-Multi-Head%20Attention)|Why MultipleHead Attention?|[Read](https://lnkd.in/p/dVrn4_zA)|
+|12|[Masked Self-Attention](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-12-Masked-Self-Attention)|Masked Self-Attention|[Read](https://lnkd.in/p/d24fUMQx)|
+|13|[Cross-Attention](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-13-Cross-Attention)|How Does the Decoder Look at the Encoder?|[Read](https://lnkd.in/p/dJun83D4)|
+|14|[FFN](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/DAY-14-Feed-Forward-Network%20)|Role of the Feed-Forward Network !|[Read](https://lnkd.in/p/dVN2qaUM)|
+|15|[Add & Norm](https://github.com/Solitaryseeker/The-Transformer-series/tree/main/Day-15-Add-%26-Norm)|Residual Connections & Layer Normalization (Add & Norm)|[Read](https://lnkd.in/p/dugmc6qv)|
 
 
 ---
