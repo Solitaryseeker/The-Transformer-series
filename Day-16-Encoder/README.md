@@ -50,9 +50,8 @@ The first sublayer allows each token to gather contextual information from the o
 
 Its mathematical form is:
 
-$$
-A=\operatorname{MHA}(X,X,X)
-$$
+
+$$A=\operatorname{MHA}(X,X,X)$$
 
 Here, the input representation \(X\) provides the Queries, Keys, and Values.
 
@@ -62,9 +61,7 @@ Multi-Head Attention uses multiple attention heads to learn different patterns o
 
 The attention output is combined with the original input using a residual connection, followed by Layer Normalization.
 
-$$
-H=\operatorname{LayerNorm}(X+A)
-$$
+$$H=\operatorname{LayerNorm}(X+A)$$
 
 Where:
 
@@ -80,11 +77,7 @@ The intermediate representation is then passed through a position-wise Feed-Forw
 
 The original Transformer uses:
 
-$$
-\operatorname{FFN}(H)
-=
-\operatorname{ReLU}(HW_1+b_1)W_2+b_2
-$$
+$$ \operatorname{FFN}(H)=\operatorname{ReLU}(HW_1+b_1)W_2+b_2 $$
 
 The FFN transforms each token representation independently, using the same learned parameters at every token position.
 
@@ -94,9 +87,7 @@ It does not directly exchange information between different token positions; tha
 
 The FFN output is combined with its input and normalized:
 
-$$
-\boxed{Y=\operatorname{LayerNorm}(H+\operatorname{FFN}(H))}
-$$
+$$ \boxed{Y=\operatorname{LayerNorm}(H+\operatorname{FFN}(H))} $$
 
 The result \(Y\) is the output of the encoder layer.
 
@@ -110,25 +101,16 @@ The original Post-LayerNorm encoder layer can be written as:
 
 $$
 A=\operatorname{MHA}(X,X,X)
-$$
 
-**Step 2 — First Add & Norm**
+$$ **Step 2 — First Add & Norm** $$
 
-$$
 H=\operatorname{LayerNorm}(X+A)
-$$
 
-**Step 3 — Feed-Forward Network**
+$$**Step 3 — Feed-Forward Network**$$
 
-$$
 F=\operatorname{FFN}(H)
-$$
 
-**Step 4 — Second Add & Norm**
-
-$$
-\boxed{Y=\operatorname{LayerNorm}(H+F)}
-$$
+$$**Step 4 — Second Add & Norm**$$\boxed{Y=\operatorname{LayerNorm}(H+F)}$$
 
 Dropout is omitted from these equations for clarity.
 
@@ -293,4 +275,4 @@ Output
 **The key idea:** Attention gathers information, the FFN transforms it, and Add & Norm combines the sublayer output with its input.
 
 ---
-
+![](https://github.com/Solitaryseeker/The-Transformer-series/blob/main/assets/encoder.jpg)
